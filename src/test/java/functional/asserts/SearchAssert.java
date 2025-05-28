@@ -1,8 +1,8 @@
 package functional.asserts;
 
-import model.request.CreateSearchRequest;
-import model.response.CreateSearchResponse;
-import model.response.NewsAndSocialMedia;
+import models.request.CreateSearchRequest;
+import models.response.CreateSearchResponse;
+import models.response.NewsAndSocialMedia;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 

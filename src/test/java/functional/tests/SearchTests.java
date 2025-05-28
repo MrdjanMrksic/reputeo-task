@@ -1,11 +1,10 @@
 package functional.tests;
 
 import calls.SearchApi;
-import constants.ApiEndpoints;
 import data.provider.SearchProvider;
 import functional.asserts.SearchAssert;
-import model.request.CreateSearchRequest;
-import model.response.CreateSearchResponse;
+import models.request.CreateSearchRequest;
+import models.response.CreateSearchResponse;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 

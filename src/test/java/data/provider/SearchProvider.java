@@ -1,7 +1,6 @@
 package data.provider;
 
-import model.request.CreateSearchRequest;
-import util.helpers.RandomDataGenerator;
+import models.request.CreateSearchRequest;
 
 import java.util.ArrayList;
 

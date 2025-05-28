@@ -1,9 +1,8 @@
 package calls;
 
 import constants.ApiEndpoints;
-import constants.ApiPaths;
-import model.request.CreateSearchRequest;
-import model.response.CreateSearchResponse;
+import models.request.CreateSearchRequest;
+import models.response.CreateSearchResponse;
 import util.rest.GsonFunctions;
 import util.rest.RestAssuredNoAuthFunctions;
 

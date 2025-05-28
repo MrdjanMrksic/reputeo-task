@@ -1,8 +1,7 @@
-package model.response;
+package models.response;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import io.qameta.allure.internal.shadowed.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
